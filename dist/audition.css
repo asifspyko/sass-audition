@@ -9123,3 +9123,43 @@ a.text-dark:focus {
   }
 }
 
+body {
+  background: #fbfcfd;
+}
+
+.cta-wrapper {
+  font-family: "Muli", sans-serif;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  margin-top: 30px;
+}
+
+.cta-wrapper p {
+  font-size: 16px;
+  color: #000000;
+  margin: 0;
+}
+
+.cta-wrapper .btn-primary {
+  background-color: #5a9cff;
+  border-color: #5a9cff;
+}
+
+.cta-wrapper .btn-outline-primary {
+  color: #5a9cff;
+  border-color: #5a9cff;
+  border-width: 2px;
+}
+
+.cta-wrapper .btn-outline-primary:hover {
+  color: #fff;
+  background-color: #5a9cff;
+  border-color: #5a9cff;
+}
+
+.cta-wrapper .btn {
+  padding: 15px 12px;
+  border-width: 2px;
+}
+
